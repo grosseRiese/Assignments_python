@@ -1,0 +1,2482 @@
+{"files name" :[
+    {
+        "id": "1",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\TE__x12_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 91,
+        "img-name": "TE__x12_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "2",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x1_090619_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 227,
+        "img-name": "x1_090619_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "3",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x1_090625_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 187,
+        "img-name": "x1_090625_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "4",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x1_090701_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 223,
+        "img-name": "x1_090701_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "5",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x1_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 254,
+        "img-name": "x1_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "6",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x2_090619_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 210,
+        "img-name": "x2_090619_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "7",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x2_090625_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 226,
+        "img-name": "x2_090625_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "8",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x2_090701_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 268,
+        "img-name": "x2_090701_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "9",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x2_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 237,
+        "img-name": "x2_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "10",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x3_090625_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 229,
+        "img-name": "x3_090625_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "11",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x3_090701_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 275,
+        "img-name": "x3_090701_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "12",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x3_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 201,
+        "img-name": "x3_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "13",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x4_090625_HASM_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 188,
+        "img-name": "x4_090625_HASM_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "14",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x4_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 243,
+        "img-name": "x4_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "15",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x5_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 204,
+        "img-name": "x5_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "16",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x6_HASM_090612_4DC_tc-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 101,
+        "img-name": "x6_HASM_090612_4DC_tc-.bmp"
+    },
+    {
+        "id": "17",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\01_5DC\\x7_HASM_090612_4DC_fs-.bmp",
+        "sub-file": "Bilder\\01_5DC",
+        "green-plus": 180,
+        "img-name": "x7_HASM_090612_4DC_fs-.bmp"
+    },
+    {
+        "id": "18",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp1b_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 245,
+        "img-name": "exp1b_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "19",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp1HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 259,
+        "img-name": "exp1HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "20",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp2_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 256,
+        "img-name": "exp2_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "21",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp3bHASM13DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 257,
+        "img-name": "exp3bHASM13DC_fs-.bmp"
+    },
+    {
+        "id": "22",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp3b_HASM_10C _fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 287,
+        "img-name": "exp3b_HASM_10C _fs-.bmp"
+    },
+    {
+        "id": "23",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp3b_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 229,
+        "img-name": "exp3b_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "24",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp3HASM13DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 265,
+        "img-name": "exp3HASM13DC_fs-.bmp"
+    },
+    {
+        "id": "25",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp3_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 229,
+        "img-name": "exp3_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "26",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp4b_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 173,
+        "img-name": "exp4b_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "27",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp4_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 171,
+        "img-name": "exp4_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "28",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp5b_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 242,
+        "img-name": "exp5b_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "29",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp5_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 245,
+        "img-name": "exp5_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "30",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp6b_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 163,
+        "img-name": "exp6b_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "31",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\02_12DC\\exp6_HASM_11DC_fs-.bmp",
+        "sub-file": "Bilder\\02_12DC",
+        "green-plus": 153,
+        "img-name": "exp6_HASM_11DC_fs-.bmp"
+    },
+    {
+        "id": "32",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x1_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 279,
+        "img-name": "x1_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "33",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x1_090809_HASM_23DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 158,
+        "img-name": "x1_090809_HASM_23DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "34",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x2b_090809_HASM_22DC_40G_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 197,
+        "img-name": "x2b_090809_HASM_22DC_40G_rgd_fs-.bmp"
+    },
+    {
+        "id": "35",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x2_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 294,
+        "img-name": "x2_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "36",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x3_090703_HASM_21DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 237,
+        "img-name": "x3_090703_HASM_21DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "37",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x3_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 233,
+        "img-name": "x3_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "38",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x3_090809_HASM_23DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 206,
+        "img-name": "x3_090809_HASM_23DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "39",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x4_090701_HASM_rgd_22DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 238,
+        "img-name": "x4_090701_HASM_rgd_22DC_fs-.bmp"
+    },
+    {
+        "id": "40",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x4_090703_HASM_22DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 237,
+        "img-name": "x4_090703_HASM_22DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "41",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x4_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 277,
+        "img-name": "x4_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "42",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x4_090809_HASM_23DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 182,
+        "img-name": "x4_090809_HASM_23DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "43",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x5_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 310,
+        "img-name": "x5_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "44",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\03_23DC\\x6_090724_HASM_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\03_23DC",
+        "green-plus": 251,
+        "img-name": "x6_090724_HASM_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "45",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp10b_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 189,
+        "img-name": "exp10b_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "46",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp10_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 201,
+        "img-name": "exp10_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "47",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp11b_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 179,
+        "img-name": "exp11b_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "48",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp11_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 179,
+        "img-name": "exp11_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "49",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp12b_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 210,
+        "img-name": "exp12b_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "50",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp12_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 208,
+        "img-name": "exp12_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "51",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp5_HASM_28C _fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 212,
+        "img-name": "exp5_HASM_28C _fs-.bmp"
+    },
+    {
+        "id": "52",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp7b_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 189,
+        "img-name": "exp7b_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "53",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp7_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 196,
+        "img-name": "exp7_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "54",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp8b_HASM_29DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 199,
+        "img-name": "exp8b_HASM_29DC_fs-.bmp"
+    },
+    {
+        "id": "55",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp8_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 192,
+        "img-name": "exp8_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "56",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp9b_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 121,
+        "img-name": "exp9b_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "57",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\exp9_HASM_28DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 136,
+        "img-name": "exp9_HASM_28DC_fs-.bmp"
+    },
+    {
+        "id": "58",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\04_28DC\\x6_090701_HASM_rgd_27DC_fs-.bmp",
+        "sub-file": "Bilder\\04_28DC",
+        "green-plus": 219,
+        "img-name": "x6_090701_HASM_rgd_27DC_fs-.bmp"
+    },
+    {
+        "id": "59",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp1b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 176,
+        "img-name": "exp1b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "60",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp1_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 157,
+        "img-name": "exp1_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "61",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp2b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 181,
+        "img-name": "exp2b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "62",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp2_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 171,
+        "img-name": "exp2_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "63",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp3b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 208,
+        "img-name": "exp3b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "64",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp3_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 235,
+        "img-name": "exp3_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "65",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp4b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 176,
+        "img-name": "exp4b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "66",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp4_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 169,
+        "img-name": "exp4_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "67",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp5b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 205,
+        "img-name": "exp5b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "68",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp5_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 211,
+        "img-name": "exp5_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "69",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp6b_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 229,
+        "img-name": "exp6b_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "70",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp6b_HASM_34C _fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 241,
+        "img-name": "exp6b_HASM_34C _fs-.bmp"
+    },
+    {
+        "id": "71",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp6_HASM_33DC_fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 153,
+        "img-name": "exp6_HASM_33DC_fs-.bmp"
+    },
+    {
+        "id": "72",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\05_33DC\\exp6_HASM_34C _fs-.bmp",
+        "sub-file": "Bilder\\05_33DC",
+        "green-plus": 233,
+        "img-name": "exp6_HASM_34C _fs-.bmp"
+    },
+    {
+        "id": "73",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\exp7b_HASM_37C _fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 171,
+        "img-name": "exp7b_HASM_37C _fs-.bmp"
+    },
+    {
+        "id": "74",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\exp7_HASM_37C _fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 157,
+        "img-name": "exp7_HASM_37C _fs-.bmp"
+    },
+    {
+        "id": "75",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\exp8b_090325_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 152,
+        "img-name": "exp8b_090325_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "76",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\exp8_090325_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 116,
+        "img-name": "exp8_090325_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "77",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x14_090701_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 244,
+        "img-name": "x14_090701_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "78",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x15_090701_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 148,
+        "img-name": "x15_090701_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "79",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x16_090701_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 187,
+        "img-name": "x16_090701_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "80",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x1_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 160,
+        "img-name": "x1_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "81",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x2_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 186,
+        "img-name": "x2_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "82",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x3_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 193,
+        "img-name": "x3_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "83",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x4_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 214,
+        "img-name": "x4_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "84",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x5_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 255,
+        "img-name": "x5_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "85",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x5_090625_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 216,
+        "img-name": "x5_090625_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "86",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x6_090606_HASM_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 215,
+        "img-name": "x6_090606_HASM_37DC_fs-.bmp"
+    },
+    {
+        "id": "87",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x6_090625_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 241,
+        "img-name": "x6_090625_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "88",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x7_090625_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 269,
+        "img-name": "x7_090625_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "89",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\06_37DC\\x8_090625_HASM_rgd_37DC_fs-.bmp",
+        "sub-file": "Bilder\\06_37DC",
+        "green-plus": 216,
+        "img-name": "x8_090625_HASM_rgd_37DC_fs-.bmp"
+    },
+    {
+        "id": "90",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\exp8b_HASM_42C _fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 217,
+        "img-name": "exp8b_HASM_42C _fs-.bmp"
+    },
+    {
+        "id": "91",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\exp8_HASM_42C _fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 113,
+        "img-name": "exp8_HASM_42C _fs-.bmp"
+    },
+    {
+        "id": "92",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\exp9b_090325_HASM_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 114,
+        "img-name": "exp9b_090325_HASM_42DC_fs-.bmp"
+    },
+    {
+        "id": "93",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\exp9_090325_HASM_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 149,
+        "img-name": "exp9_090325_HASM_42DC_fs-.bmp"
+    },
+    {
+        "id": "94",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x15_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 298,
+        "img-name": "x15_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "95",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x16_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 268,
+        "img-name": "x16_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "96",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x17_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 309,
+        "img-name": "x17_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "97",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x18_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 243,
+        "img-name": "x18_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "98",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x19_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 298,
+        "img-name": "x19_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "99",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\07_42DC\\x20_090724_HASM_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\07_42DC",
+        "green-plus": 276,
+        "img-name": "x20_090724_HASM_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "100",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp10b_090325_HASM_48DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 175,
+        "img-name": "exp10b_090325_HASM_48DC_fs-.bmp"
+    },
+    {
+        "id": "101",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp10b_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 199,
+        "img-name": "exp10b_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "102",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp10_090325_HASM_48DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 165,
+        "img-name": "exp10_090325_HASM_48DC_fs-.bmp"
+    },
+    {
+        "id": "103",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp10_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 179,
+        "img-name": "exp10_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "104",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp11b_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 172,
+        "img-name": "exp11b_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "105",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp11_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 194,
+        "img-name": "exp11_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "106",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp12b_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 202,
+        "img-name": "exp12b_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "107",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp12_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 210,
+        "img-name": "exp12_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "108",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp8b_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 202,
+        "img-name": "exp8b_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "109",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp8_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 206,
+        "img-name": "exp8_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "110",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp9b_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 169,
+        "img-name": "exp9b_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "111",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp9b_HASM_48C _fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 189,
+        "img-name": "exp9b_HASM_48C _fs-.bmp"
+    },
+    {
+        "id": "112",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp9_HASM_46DC_fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 197,
+        "img-name": "exp9_HASM_46DC_fs-.bmp"
+    },
+    {
+        "id": "113",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\08_46DC\\exp9_HASM_47C _fs-.bmp",
+        "sub-file": "Bilder\\08_46DC",
+        "green-plus": 191,
+        "img-name": "exp9_HASM_47C _fs-.bmp"
+    },
+    {
+        "id": "114",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\exp10b_HASM_55C _fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 281,
+        "img-name": "exp10b_HASM_55C _fs-.bmp"
+    },
+    {
+        "id": "115",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\exp10_HASM_54C _fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 291,
+        "img-name": "exp10_HASM_54C _fs-.bmp"
+    },
+    {
+        "id": "116",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\exp11_090325_HASM_54DC_fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 211,
+        "img-name": "exp11_090325_HASM_54DC_fs-.bmp"
+    },
+    {
+        "id": "117",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\x1_090818_HASM_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 208,
+        "img-name": "x1_090818_HASM_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "118",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\x2_090818_HASM_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 185,
+        "img-name": "x2_090818_HASM_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "119",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\x7_090810_HASM_54DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 172,
+        "img-name": "x7_090810_HASM_54DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "120",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\09_54DC\\x8_090810_HASM_54DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\09_54DC",
+        "green-plus": 153,
+        "img-name": "x8_090810_HASM_54DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "121",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp1b_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 193,
+        "img-name": "exp1b_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "122",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp1_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 190,
+        "img-name": "exp1_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "123",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp2b_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 167,
+        "img-name": "exp2b_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "124",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp2_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 161,
+        "img-name": "exp2_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "125",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp3b_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 168,
+        "img-name": "exp3b_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "126",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp3_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 159,
+        "img-name": "exp3_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "127",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp4b_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 188,
+        "img-name": "exp4b_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "128",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp4_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 178,
+        "img-name": "exp4_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "129",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp5b_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 155,
+        "img-name": "exp5b_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "130",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\exp5_HASMatp_6DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 148,
+        "img-name": "exp5_HASMatp_6DC_fs-.bmp"
+    },
+    {
+        "id": "131",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\x5_090619_HASM_atp_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 228,
+        "img-name": "x5_090619_HASM_atp_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "132",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\21_6DCatp\\x6_090619_HASM_atp_rgd_4DC_fs-.bmp",
+        "sub-file": "Bilder\\21_6DCatp",
+        "green-plus": 198,
+        "img-name": "x6_090619_HASM_atp_rgd_4DC_fs-.bmp"
+    },
+    {
+        "id": "133",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp10b_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 211,
+        "img-name": "exp10b_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "134",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp10_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 123,
+        "img-name": "exp10_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "135",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp11b_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 232,
+        "img-name": "exp11b_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "136",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp11_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 177,
+        "img-name": "exp11_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "137",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp7b_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 174,
+        "img-name": "exp7b_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "138",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp7_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 192,
+        "img-name": "exp7_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "139",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp8b_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 170,
+        "img-name": "exp8b_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "140",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\exp8_HASMatp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 174,
+        "img-name": "exp8_HASMatp_12DC_fs-.bmp"
+    },
+    {
+        "id": "141",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x1_090615_HASM_atp_rgd_10DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 284,
+        "img-name": "x1_090615_HASM_atp_rgd_10DC_fs-.bmp"
+    },
+    {
+        "id": "142",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x2_090615_HASM_atp_rgd_9DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 298,
+        "img-name": "x2_090615_HASM_atp_rgd_9DC_fs-.bmp"
+    },
+    {
+        "id": "143",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x3b_6G_090615_HASM_atp_rgd_10DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 296,
+        "img-name": "x3b_6G_090615_HASM_atp_rgd_10DC_fs-.bmp"
+    },
+    {
+        "id": "144",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x3_090615_HASM_atp_rgd_10DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 305,
+        "img-name": "x3_090615_HASM_atp_rgd_10DC_fs-.bmp"
+    },
+    {
+        "id": "145",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x4_090615_HASM_atp_rgd_10DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 297,
+        "img-name": "x4_090615_HASM_atp_rgd_10DC_fs-.bmp"
+    },
+    {
+        "id": "146",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\22_12DCatp\\x5_090615_HASM_atp_rgd_10DC_fs-.bmp",
+        "sub-file": "Bilder\\22_12DCatp",
+        "green-plus": 200,
+        "img-name": "x5_090615_HASM_atp_rgd_10DC_fs-.bmp"
+    },
+    {
+        "id": "147",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x10_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 294,
+        "img-name": "x10_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "148",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x11_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 315,
+        "img-name": "x11_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "149",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x12_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 298,
+        "img-name": "x12_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "150",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x13_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 246,
+        "img-name": "x13_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "151",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x14_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 338,
+        "img-name": "x14_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "152",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x5_090703_HASM_ATP_23DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 183,
+        "img-name": "x5_090703_HASM_ATP_23DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "153",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x6_090703_HASM_ATP_23DC_rgd_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 199,
+        "img-name": "x6_090703_HASM_ATP_23DC_rgd_fs-.bmp"
+    },
+    {
+        "id": "154",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x7_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 299,
+        "img-name": "x7_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "155",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x8_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 189,
+        "img-name": "x8_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "156",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x9_090701_HASM_ATP_rgd_24DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 185,
+        "img-name": "x9_090701_HASM_ATP_rgd_24DC_fs-.bmp"
+    },
+    {
+        "id": "157",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\23_23DCatp\\x9_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\23_23DCatp",
+        "green-plus": 292,
+        "img-name": "x9_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "158",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp1b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 181,
+        "img-name": "exp1b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "159",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp1_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 181,
+        "img-name": "exp1_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "160",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp2b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 222,
+        "img-name": "exp2b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "161",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp2_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 218,
+        "img-name": "exp2_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "162",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp3b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 280,
+        "img-name": "exp3b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "163",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp3_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 243,
+        "img-name": "exp3_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "164",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp4b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 256,
+        "img-name": "exp4b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "165",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp4_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 237,
+        "img-name": "exp4_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "166",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp5b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 214,
+        "img-name": "exp5b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "167",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp5_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 210,
+        "img-name": "exp5_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "168",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp6b_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 191,
+        "img-name": "exp6b_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "169",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\exp6_HASMatp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 203,
+        "img-name": "exp6_HASMatp_28DC_fs-.bmp"
+    },
+    {
+        "id": "170",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\x5b_090615_HASM_atp_rgd_27DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 173,
+        "img-name": "x5b_090615_HASM_atp_rgd_27DC_fs-.bmp"
+    },
+    {
+        "id": "171",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\x6_090615_HASM_atp_rgd_27DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 229,
+        "img-name": "x6_090615_HASM_atp_rgd_27DC_fs-.bmp"
+    },
+    {
+        "id": "172",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\x7_090615_HASM_atp_rgd_27DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 258,
+        "img-name": "x7_090615_HASM_atp_rgd_27DC_fs-.bmp"
+    },
+    {
+        "id": "173",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\x7_090701_HASM_ATP_rgd_26DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 173,
+        "img-name": "x7_090701_HASM_ATP_rgd_26DC_fs-.bmp"
+    },
+    {
+        "id": "174",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\24_28DCatp\\x8_090701_HASM_ATP_rgd_26DC_fs-.bmp",
+        "sub-file": "Bilder\\24_28DCatp",
+        "green-plus": 240,
+        "img-name": "x8_090701_HASM_ATP_rgd_26DC_fs-.bmp"
+    },
+    {
+        "id": "175",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp10b_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 238,
+        "img-name": "exp10b_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "176",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp10_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 153,
+        "img-name": "exp10_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "177",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp12b_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 246,
+        "img-name": "exp12b_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "178",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp12_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 245,
+        "img-name": "exp12_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "179",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp7b_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 286,
+        "img-name": "exp7b_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "180",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp7_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 296,
+        "img-name": "exp7_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "181",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp8_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 215,
+        "img-name": "exp8_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "182",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp9b_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 185,
+        "img-name": "exp9b_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "183",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp9c_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 188,
+        "img-name": "exp9c_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "184",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\exp9_HASMatp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 204,
+        "img-name": "exp9_HASMatp_33DC_fs-.bmp"
+    },
+    {
+        "id": "185",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\x8_090615_HASM_atp_rgd_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 208,
+        "img-name": "x8_090615_HASM_atp_rgd_33DC_fs-.bmp"
+    },
+    {
+        "id": "186",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\25_33DCatp\\x9_090615_HASM_atp_rgd_33DC_fs-.bmp",
+        "sub-file": "Bilder\\25_33DCatp",
+        "green-plus": 275,
+        "img-name": "x9_090615_HASM_atp_rgd_33DC_fs-.bmp"
+    },
+    {
+        "id": "187",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp10b_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 213,
+        "img-name": "exp10b_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "188",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp10_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 215,
+        "img-name": "exp10_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "189",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp11_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 189,
+        "img-name": "exp11_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "190",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp12_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 214,
+        "img-name": "exp12_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "191",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp7_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 227,
+        "img-name": "exp7_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "192",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\26_37DCatp\\exp8_HASMatp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\26_37DCatp",
+        "green-plus": 192,
+        "img-name": "exp8_HASMatp_37DC_fs-.bmp"
+    },
+    {
+        "id": "193",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x10_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 275,
+        "img-name": "x10_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "194",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x10_090615_HASM_atp_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 251,
+        "img-name": "x10_090615_HASM_atp_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "195",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x11_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 161,
+        "img-name": "x11_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "196",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x11_090615_HASM_atp_rgd_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 174,
+        "img-name": "x11_090615_HASM_atp_rgd_42DC_fs-.bmp"
+    },
+    {
+        "id": "197",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x12_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 208,
+        "img-name": "x12_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "198",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x7_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 286,
+        "img-name": "x7_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "199",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x8_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 226,
+        "img-name": "x8_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "200",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x9_090606_HASM_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 229,
+        "img-name": "x9_090606_HASM_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "201",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\27_42DCatp\\x__TE_14_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\27_42DCatp",
+        "green-plus": 338,
+        "img-name": "x__TE_14_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "202",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp1b_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 291,
+        "img-name": "exp1b_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "203",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp1_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 283,
+        "img-name": "exp1_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "204",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp2_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 228,
+        "img-name": "exp2_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "205",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp3_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 186,
+        "img-name": "exp3_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "206",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp4_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 224,
+        "img-name": "exp4_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "207",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp5_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 243,
+        "img-name": "exp5_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "208",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\exp6_HASMatp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 228,
+        "img-name": "exp6_HASMatp_46DC_fs-.bmp"
+    },
+    {
+        "id": "209",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\x12_090615_HASM_atp_rgd_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 236,
+        "img-name": "x12_090615_HASM_atp_rgd_46DC_fs-.bmp"
+    },
+    {
+        "id": "210",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\x13_090615_HASM_atp_rgd_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 292,
+        "img-name": "x13_090615_HASM_atp_rgd_46DC_fs-.bmp"
+    },
+    {
+        "id": "211",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\x14_090615_HASM_atp_rgd_46DC_fs-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 227,
+        "img-name": "x14_090615_HASM_atp_rgd_46DC_fs-.bmp"
+    },
+    {
+        "id": "212",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\x15_090615_HASM_atp_rgd_46DC_tc-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 159,
+        "img-name": "x15_090615_HASM_atp_rgd_46DC_tc-.bmp"
+    },
+    {
+        "id": "213",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\28_46DCatp\\x16_090615_HASM_atp_rgd_46DC_tc-.bmp",
+        "sub-file": "Bilder\\28_46DCatp",
+        "green-plus": 164,
+        "img-name": "x16_090615_HASM_atp_rgd_46DC_tc-.bmp"
+    },
+    {
+        "id": "214",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x1b_090818_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 163,
+        "img-name": "x1b_090818_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "215",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x1_090818_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 163,
+        "img-name": "x1_090818_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "216",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x23_090807_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 118,
+        "img-name": "x23_090807_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "217",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x24_090807_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 107,
+        "img-name": "x24_090807_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "218",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x25_090807_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 159,
+        "img-name": "x25_090807_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "219",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x26_090807_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 108,
+        "img-name": "x26_090807_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "220",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\29_54Catp\\x2_090818_HASM_atp_rgd_54DC_fs-.bmp",
+        "sub-file": "Bilder\\29_54Catp",
+        "green-plus": 175,
+        "img-name": "x2_090818_HASM_atp_rgd_54DC_fs-.bmp"
+    },
+    {
+        "id": "221",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x1_090707_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 289,
+        "img-name": "x1_090707_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "222",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x1_090807_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 101,
+        "img-name": "x1_090807_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "223",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x2b_090707_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 162,
+        "img-name": "x2b_090707_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "224",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x2_090707_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 243,
+        "img-name": "x2_090707_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "225",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x2_090807_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 131,
+        "img-name": "x2_090807_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "226",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x3b_090707_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 197,
+        "img-name": "x3b_090707_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "227",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x3_090619_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 259,
+        "img-name": "x3_090619_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "228",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x3_090707_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 184,
+        "img-name": "x3_090707_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "229",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x3_090807_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 170,
+        "img-name": "x3_090807_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "230",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\31_6Cldl\\x4_090619_HASM_ldl_4DC_fs-.bmp",
+        "sub-file": "Bilder\\31_6Cldl",
+        "green-plus": 238,
+        "img-name": "x4_090619_HASM_ldl_4DC_fs-.bmp"
+    },
+    {
+        "id": "231",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x4_090707_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 289,
+        "img-name": "x4_090707_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "232",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x4_090807_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 137,
+        "img-name": "x4_090807_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "233",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x5_090707_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 246,
+        "img-name": "x5_090707_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "234",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x5_090807_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 139,
+        "img-name": "x5_090807_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "235",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x6b_090707_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 238,
+        "img-name": "x6b_090707_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "236",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x6_090707_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 195,
+        "img-name": "x6_090707_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "237",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\32_12Cldl\\x6_090807_HASM_ldl_12DC_fs-.bmp",
+        "sub-file": "Bilder\\32_12Cldl",
+        "green-plus": 152,
+        "img-name": "x6_090807_HASM_ldl_12DC_fs-.bmp"
+    },
+    {
+        "id": "238",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x10_090807_HASM_ldl_23DC_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 156,
+        "img-name": "x10_090807_HASM_ldl_23DC_fs-.bmp"
+    },
+    {
+        "id": "239",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x5_090809_HASM_23DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 127,
+        "img-name": "x5_090809_HASM_23DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "240",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x6_090809_HASM_23DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 169,
+        "img-name": "x6_090809_HASM_23DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "241",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x7_090807_HASM_ldl_23DC_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 143,
+        "img-name": "x7_090807_HASM_ldl_23DC_fs-.bmp"
+    },
+    {
+        "id": "242",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x7_090809_HASM_23DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 127,
+        "img-name": "x7_090809_HASM_23DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "243",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x8_090807_HASM_ldl_22DC_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 161,
+        "img-name": "x8_090807_HASM_ldl_22DC_fs-.bmp"
+    },
+    {
+        "id": "244",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\33_23Cldl\\x9_090807_HASM_ldl_22DC_fs-.bmp",
+        "sub-file": "Bilder\\33_23Cldl",
+        "green-plus": 145,
+        "img-name": "x9_090807_HASM_ldl_22DC_fs-.bmp"
+    },
+    {
+        "id": "245",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x10_090809_HASM_28DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 158,
+        "img-name": "x10_090809_HASM_28DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "246",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x11_090807_HASM_ldl_28DC_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 153,
+        "img-name": "x11_090807_HASM_ldl_28DC_fs-.bmp"
+    },
+    {
+        "id": "247",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x12_090807_HASM_ldl_28DC_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 143,
+        "img-name": "x12_090807_HASM_ldl_28DC_fs-.bmp"
+    },
+    {
+        "id": "248",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x13_090807_HASM_ldl_28DC_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 145,
+        "img-name": "x13_090807_HASM_ldl_28DC_fs-.bmp"
+    },
+    {
+        "id": "249",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x8_090809_HASM_28DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 124,
+        "img-name": "x8_090809_HASM_28DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "250",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\34_28Cldl\\x9_090809_HASM_28DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\34_28Cldl",
+        "green-plus": 162,
+        "img-name": "x9_090809_HASM_28DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "251",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x11_090809_HASM_33DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 112,
+        "img-name": "x11_090809_HASM_33DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "252",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x12_090809_HASM_33DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 128,
+        "img-name": "x12_090809_HASM_33DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "253",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x13_090809_HASM_33DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 169,
+        "img-name": "x13_090809_HASM_33DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "254",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x14_090807_HASM_ldl_33DC_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 125,
+        "img-name": "x14_090807_HASM_ldl_33DC_fs-.bmp"
+    },
+    {
+        "id": "255",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x15_090807_HASM_ldl_33DC_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 126,
+        "img-name": "x15_090807_HASM_ldl_33DC_fs-.bmp"
+    },
+    {
+        "id": "256",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\35_33Cldl\\x16_090807_HASM_ldl_33DC_fs-.bmp",
+        "sub-file": "Bilder\\35_33Cldl",
+        "green-plus": 130,
+        "img-name": "x16_090807_HASM_ldl_33DC_fs-.bmp"
+    },
+    {
+        "id": "257",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x14_090809_HASM_37DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 160,
+        "img-name": "x14_090809_HASM_37DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "258",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x16b_090809_HASM_37DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 168,
+        "img-name": "x16b_090809_HASM_37DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "259",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x16_090809_HASM_37DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 159,
+        "img-name": "x16_090809_HASM_37DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "260",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x7_090707_HASM_ldl_37DC_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 259,
+        "img-name": "x7_090707_HASM_ldl_37DC_fs-.bmp"
+    },
+    {
+        "id": "261",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x8_090707_HASM_ldl_37DC_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 228,
+        "img-name": "x8_090707_HASM_ldl_37DC_fs-.bmp"
+    },
+    {
+        "id": "262",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\36_37Cldl\\x9_090707_HASM_ldl_37DC_fs-.bmp",
+        "sub-file": "Bilder\\36_37Cldl",
+        "green-plus": 188,
+        "img-name": "x9_090707_HASM_ldl_37DC_fs-.bmp"
+    },
+    {
+        "id": "263",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x10_090707_HASM_ldl_42DC_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 228,
+        "img-name": "x10_090707_HASM_ldl_42DC_fs-.bmp"
+    },
+    {
+        "id": "264",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x11_090707_HASM_ldl_42DC_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 178,
+        "img-name": "x11_090707_HASM_ldl_42DC_fs-.bmp"
+    },
+    {
+        "id": "265",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x12_090707_HASM_ldl_42DC_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 243,
+        "img-name": "x12_090707_HASM_ldl_42DC_fs-.bmp"
+    },
+    {
+        "id": "266",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x17_090809_HASM_42DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 183,
+        "img-name": "x17_090809_HASM_42DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "267",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x18b_090809_HASM_42DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 133,
+        "img-name": "x18b_090809_HASM_42DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "268",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x18_090809_HASM_42DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 171,
+        "img-name": "x18_090809_HASM_42DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "269",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\37_42Cldl\\x19_090809_HASM_42DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\37_42Cldl",
+        "green-plus": 164,
+        "img-name": "x19_090809_HASM_42DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "270",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x17_090807_HASM_ldl_46DC_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 130,
+        "img-name": "x17_090807_HASM_ldl_46DC_fs-.bmp"
+    },
+    {
+        "id": "271",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x18_090807_HASM_ldl_46DC_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 140,
+        "img-name": "x18_090807_HASM_ldl_46DC_fs-.bmp"
+    },
+    {
+        "id": "272",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x19_090807_HASM_ldl_46DC_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 140,
+        "img-name": "x19_090807_HASM_ldl_46DC_fs-.bmp"
+    },
+    {
+        "id": "273",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x20_090809_HASM_46DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 136,
+        "img-name": "x20_090809_HASM_46DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "274",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x21_090809_HASM_46DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 137,
+        "img-name": "x21_090809_HASM_46DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "275",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\38_46Cldl\\x22_090809_HASM_46DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\38_46Cldl",
+        "green-plus": 146,
+        "img-name": "x22_090809_HASM_46DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "276",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x1_090818_HASM_ldl_54DC_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 171,
+        "img-name": "x1_090818_HASM_ldl_54DC_fs-.bmp"
+    },
+    {
+        "id": "277",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x20_090807_HASM_ldl_54DC_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 126,
+        "img-name": "x20_090807_HASM_ldl_54DC_fs-.bmp"
+    },
+    {
+        "id": "278",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x21_090807_HASM_ldl_54DC_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 140,
+        "img-name": "x21_090807_HASM_ldl_54DC_fs-.bmp"
+    },
+    {
+        "id": "279",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x22_090807_HASM_ldl_54DC_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 149,
+        "img-name": "x22_090807_HASM_ldl_54DC_fs-.bmp"
+    },
+    {
+        "id": "280",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x23_090809_HASM_54DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 135,
+        "img-name": "x23_090809_HASM_54DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "281",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x24_090809_HASM_54DC_ldl_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 149,
+        "img-name": "x24_090809_HASM_54DC_ldl_fs-.bmp"
+    },
+    {
+        "id": "282",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\39_54Cldl\\x2_090818_HASM_ldl_54DC_fs-.bmp",
+        "sub-file": "Bilder\\39_54Cldl",
+        "green-plus": 138,
+        "img-name": "x2_090818_HASM_ldl_54DC_fs-.bmp"
+    },
+    {
+        "id": "283",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x1b_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 154,
+        "img-name": "x1b_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "284",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x1_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 158,
+        "img-name": "x1_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "285",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x2b_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 100,
+        "img-name": "x2b_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "286",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x2_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 111,
+        "img-name": "x2_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "287",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x3b_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 131,
+        "img-name": "x3b_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "288",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x3_090818_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 103,
+        "img-name": "x3_090818_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "289",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x4_090817_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 166,
+        "img-name": "x4_090817_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "290",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x5_090817_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 103,
+        "img-name": "x5_090817_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "291",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x6b_090817_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 137,
+        "img-name": "x6b_090817_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "292",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\41_6Cldlatp\\x6_090817_HASM_ldl_atp_4DC_fs-.bmp",
+        "sub-file": "Bilder\\41_6Cldlatp",
+        "green-plus": 169,
+        "img-name": "x6_090817_HASM_ldl_atp_4DC_fs-.bmp"
+    },
+    {
+        "id": "293",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x4_090818_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 178,
+        "img-name": "x4_090818_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "294",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x5b_090818_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 153,
+        "img-name": "x5b_090818_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "295",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x5_090818_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 125,
+        "img-name": "x5_090818_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "296",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x6b_090818_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 145,
+        "img-name": "x6b_090818_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "297",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x6_090818_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 201,
+        "img-name": "x6_090818_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "298",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x7_090817_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 164,
+        "img-name": "x7_090817_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "299",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x8_090817_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 123,
+        "img-name": "x8_090817_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "300",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x9_090817_HASM_ldl_atp_12DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 97,
+        "img-name": "x9_090817_HASM_ldl_atp_12DC_fs-.bmp"
+    },
+    {
+        "id": "301",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\42_12Cldlatp\\x__TE_14_090724_HASM_ATP_rgd_23DC_fs-.bmp",
+        "sub-file": "Bilder\\42_12Cldlatp",
+        "green-plus": 338,
+        "img-name": "x__TE_14_090724_HASM_ATP_rgd_23DC_fs-.bmp"
+    },
+    {
+        "id": "302",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x1b_090817_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 164,
+        "img-name": "x1b_090817_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "303",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x1_090817_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 166,
+        "img-name": "x1_090817_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "304",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x2_090817_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 192,
+        "img-name": "x2_090817_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "305",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x3_090817_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 150,
+        "img-name": "x3_090817_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "306",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x7_090818_HASM_ldl_atp_22DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 161,
+        "img-name": "x7_090818_HASM_ldl_atp_22DC_fs-.bmp"
+    },
+    {
+        "id": "307",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x8b_090818_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 192,
+        "img-name": "x8b_090818_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "308",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x8_090818_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 200,
+        "img-name": "x8_090818_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "309",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x9b_090818_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 99,
+        "img-name": "x9b_090818_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "310",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\43_23Cldlatp\\x9_090818_HASM_ldl_atp_23DC_fs-.bmp",
+        "sub-file": "Bilder\\43_23Cldlatp",
+        "green-plus": 106,
+        "img-name": "x9_090818_HASM_ldl_atp_23DC_fs-.bmp"
+    },
+    {
+        "id": "311",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x10_090817_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 107,
+        "img-name": "x10_090817_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "312",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x10_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 144,
+        "img-name": "x10_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "313",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x11b_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 93,
+        "img-name": "x11b_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "314",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x11_090817_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 121,
+        "img-name": "x11_090817_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "315",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x11_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 115,
+        "img-name": "x11_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "316",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x12b_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 105,
+        "img-name": "x12b_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "317",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x12_090817_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 162,
+        "img-name": "x12_090817_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "318",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\44_28Cldlatp\\x12_090818_HASM_ldl_atp_28DC_fs-.bmp",
+        "sub-file": "Bilder\\44_28Cldlatp",
+        "green-plus": 91,
+        "img-name": "x12_090818_HASM_ldl_atp_28DC_fs-.bmp"
+    },
+    {
+        "id": "319",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x13b_090818_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 125,
+        "img-name": "x13b_090818_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "320",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x13_090817_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 118,
+        "img-name": "x13_090817_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "321",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x13_090818_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 166,
+        "img-name": "x13_090818_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "322",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x14_090817_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 109,
+        "img-name": "x14_090817_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "323",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x14_090818_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 135,
+        "img-name": "x14_090818_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "324",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x15_090817_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 133,
+        "img-name": "x15_090817_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "325",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\45_33Cldlatp\\x15_090818_HASM_ldl_atp_33DC_fs-.bmp",
+        "sub-file": "Bilder\\45_33Cldlatp",
+        "green-plus": 161,
+        "img-name": "x15_090818_HASM_ldl_atp_33DC_fs-.bmp"
+    },
+    {
+        "id": "326",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x16_090817_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 143,
+        "img-name": "x16_090817_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "327",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x16_090818_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 125,
+        "img-name": "x16_090818_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "328",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x17b_090818_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 109,
+        "img-name": "x17b_090818_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "329",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x17_090817_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 109,
+        "img-name": "x17_090817_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "330",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x17_090818_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 122,
+        "img-name": "x17_090818_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "331",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x18b_090818_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 121,
+        "img-name": "x18b_090818_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "332",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x18_090817_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 155,
+        "img-name": "x18_090817_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "333",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\46_37Cldlatp\\x18_090818_HASM_ldl_atp_37DC_fs-.bmp",
+        "sub-file": "Bilder\\46_37Cldlatp",
+        "green-plus": 97,
+        "img-name": "x18_090818_HASM_ldl_atp_37DC_fs-.bmp"
+    },
+    {
+        "id": "334",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x18b_090817_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 105,
+        "img-name": "x18b_090817_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "335",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x19_090817_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 117,
+        "img-name": "x19_090817_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "336",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x19_090818_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 120,
+        "img-name": "x19_090818_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "337",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x20_090817_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 143,
+        "img-name": "x20_090817_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "338",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x20_090818_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 108,
+        "img-name": "x20_090818_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "339",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x21_090817_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 137,
+        "img-name": "x21_090817_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "340",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\47_42Cldlatp\\x21_090818_HASM_ldl_atp_42DC_fs-.bmp",
+        "sub-file": "Bilder\\47_42Cldlatp",
+        "green-plus": 126,
+        "img-name": "x21_090818_HASM_ldl_atp_42DC_fs-.bmp"
+    },
+    {
+        "id": "341",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x22_090817_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 99,
+        "img-name": "x22_090817_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "342",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x22_090818_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 150,
+        "img-name": "x22_090818_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "343",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x23b_090818_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 104,
+        "img-name": "x23b_090818_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "344",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x23_090817_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 105,
+        "img-name": "x23_090817_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "345",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x23_090818_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 149,
+        "img-name": "x23_090818_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "346",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x24_090817_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 115,
+        "img-name": "x24_090817_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "347",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\48_46Cldlatp\\x24_090818_HASM_ldl_atp_46DC_fs-.bmp",
+        "sub-file": "Bilder\\48_46Cldlatp",
+        "green-plus": 134,
+        "img-name": "x24_090818_HASM_ldl_atp_46DC_fs-.bmp"
+    },
+    {
+        "id": "348",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x25_090817_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 114,
+        "img-name": "x25_090817_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "349",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x25_090818_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 146,
+        "img-name": "x25_090818_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "350",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x26b_090818_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 134,
+        "img-name": "x26b_090818_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "351",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x26_090817_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 122,
+        "img-name": "x26_090817_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "352",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x26_090818_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 197,
+        "img-name": "x26_090818_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "353",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x27_090817_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 111,
+        "img-name": "x27_090817_HASM_ldl_atp_54DC_fs-.bmp"
+    },
+    {
+        "id": "354",
+        "path-name": "C:/Users/omrdh/Desktop/My_ WorkSpace _file/Uni & Schools/GU-Gothenburg university 2021/Matematik program 180hp/V_termin_2022/Python_Extra_Exercises/Lab_moments/Laboration_IV/Bilder\\49_54Cldlatp\\x27_090818_HASM_ldl_atp_54DC_fs-.bmp",
+        "sub-file": "Bilder\\49_54Cldlatp",
+        "green-plus": 131,
+        "img-name": "x27_090818_HASM_ldl_atp_54DC_fs-.bmp"
+    }
+],"Antal imgs": [{
+    "Number of images": "354"
+}]}
