@@ -28,39 +28,48 @@ v5 = np.array([2,1,1,9,3,4,1,9,9,9,9,9,9,5,5,1,1,1,9,1,5,5,1,1,1])
 v6 = pie5
 v7 = pie5[450099:453102]
 v8 = pie5[710099:710108]
-
 def langsta_sekvensen(arr):
-    
-    lgd = 1
-    longest = 1
-    element = 1
+  lgd = 1
+    longest = [0 for ix in range(0,10)]
+    stop_indices = [0 for ix in range(0,10)]
+    start_indices = [0 for ix in range(0,10)]
     
     if len(arr) == 0: 
         print("An empty array is not allowed!")
         return 0
     elif len(arr) == 1:
-        print(f"Det blir en enda siffra: {arr[0]} ,och har {element} sekvens")
+        print("Just a single element, count the length yourself.")
         return 0
-    u=[]
-    for i in np.arange(1,len(arr)): 
+    
+    for i in range(1,len(arr)): 
 
         if arr[i-1] == arr[i]:
             lgd = lgd + 1
             
         else:
+            if lgd>longest[arr[i-1]]:
+                longest[arr[i-1]] = lgd
+                stop_indices[arr[i-1]] = i-1
+                start_indices[arr[i-1]] = i-lgd    
             lgd = 1
             
-        if lgd>longest:
-            longest = lgd
-            element= arr[i]
-            u.append(i)
+    i = len(arr) - 1        
+    if arr[i-1] != arr[i]:
+        if longest[arr[i]] == 0:
+            longest[arr[i]] = 1
+            start_indices[arr[i]] = i
+            stop_indices[arr[i]] = i
+    else:
+        if lgd>longest[arr[i-1]]:
+                longest[arr[i-1]] = lgd
+                stop_indices[arr[i-1]] = i-1
+                start_indices[arr[i-1]] = i-lgd
     
-    
-    print(f"Talet: {element} har {longest} sekvens att index {u}")
-   
-langsta_sekvensen(v6)
+    for d in range(0,10):
+        print(f"Talet: {d} har en sekvens av längd {longest[d]} från {start_indices[d]} till {stop_indices[d]}")
 
 
+langsta_sekvensen(v5)
 
 
 
