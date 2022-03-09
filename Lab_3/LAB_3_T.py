@@ -2,26 +2,42 @@ import numpy as np
 import string
 
 ##### test-case    #####
-#ciphertext ="ikeasibkpmiooskcusaecuuqnl" #"FLAPJBCZFAEMAUHJNREPGPDVUNLINGNWSRMCABAHTNOREPFESGFSEMBSAHGOHJNREPGPDVUNCRAJLAEMHJNGSRPAAMNEXUULHDLEDZ"
-#key = 'NOPRESSURENODIAMONDS'
+ciphertext ="FLAPJBCZFAEMAUHJNREPGPDVUNLINGNWSRMCABAHTNOREPFESGFSEMBSAHGOHJNREPGPDVUNCRAJLAEMHJNGSRPAAMNEXUULHDLEDZ"
+key = 'NOPRESSURENODIAMONDS'
+ciphertext = ciphertext.lower()
 
-#key =  key.upper()
-#key = key.replace(" ", "")
+
+#The plain text should be:
+    ##"if debugging is the process of removing bugs 
+    ## then programming must be the process of putting them in. edsger w dijkstra" 
+### => < Edsger Wybe Dijkstra >
+
 
 #####   basic-case   #####
-key = 'playfair example'
-plaintext = 'hidethegoldinthetreestump'
-ciphertext = "bmodzbxdnabekudmuixmmouvif"
+#key = 'playfair example'
+plaintext = 'hide the gold inthetreestump'
+#ciphertext = "bmodzbxdnabekudmuixmmouvif"
 
-#plaintext=plaintext.upper()
+plaintext=plaintext.lower()
+plaintext = plaintext.replace(" ", "")
 
 plaintextpairs = []
 ciphertextpairs = []
 
 #############################################################
 
+def filter_key(key):
+    key =  key.lower()
+    key = key.replace(" ", "")
+    return key
+
+new_key = filter_key(key)
+#print("New key: ", new_key)
+
+############################################################
+
 def playfair(text):
-    en_alphabets = string.ascii_lowercase.replace("j",".")
+    en_alphabets = string.ascii_lowercase.replace("q",".")
     empt_matrix = ["" for i in range(5)]
     index = 0
     column = 0
@@ -44,8 +60,10 @@ def playfair(text):
     
     return empt_matrix
 
-key_matrix = playfair(key)  
+key_matrix = playfair(new_key)  
 print("---------------------------------------------------")
+
+
 ############################################################
 ################     Decryption      #######################
 
@@ -104,9 +122,13 @@ def cipher_text_method(key_matrix):
             
         plaintextpair = key_matrix[i0][j1] + key_matrix[i1][j0]
         plaintextpairs.append(plaintextpair)
-    print("The key : ", key)    
+    print("---------------------------------------------------")
+    print("The key : ", new_key)  
+    print("---------------------------------------------------")
     print("Ciphertext : " ,"".join(ciphertextpairs))
+    print("---------------------------------------------------")
     print("PlainText: ","".join(plaintextpairs))
+    print("---------------------------------------------------")
     
 #cipher_text_method(key_matrix)  # <===== 'if u want to run plain-text(), comment out this method'
  
@@ -132,7 +154,7 @@ def rules_method_plain_text(key_matrix):
             plaintextpairs.append(a + 'X')
             _index += 1
 
-    print("Plain-text pair: ", plaintextpairs)
+    print("Plain-text pair: ", plaintextpairs) 
      
     for pair in plaintextpairs:
         applied_rule = False
@@ -178,7 +200,7 @@ def rules_method_plain_text(key_matrix):
                 j1= row.find(pair[1])
         ciphertextpair = key_matrix[i0][j1] + key_matrix[i1][j0]
         ciphertextpairs.append(ciphertextpair)
-    print("The key : ", key)    
+    print("The key : ", new_key)    
     print("plaintext : ","".join(plaintextpairs))
     print("Ciphertext : ","".join(ciphertextpairs))
 
